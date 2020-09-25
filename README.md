@@ -3,7 +3,7 @@ Website: https://yieldbee.finance
 
 Telegram: https://telegram.me/YieldBeeFinanceOfficials
 
-Discord:
+Discord:https://discord.com/invite/zNcZYAD
 
 Twitter: https://twitter.com/yieldbeefinance
 
